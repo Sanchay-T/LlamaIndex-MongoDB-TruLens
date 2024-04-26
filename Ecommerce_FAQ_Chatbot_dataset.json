@@ -1,0 +1,42 @@
+{
+  "questions": [
+  {
+  "question": "How can I create an account?",
+  "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process."
+  },
+  {
+  "question": "What payment methods do you accept?",
+  "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders."
+  },
+  {
+  "question": "How can I track my order?",
+  "answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment."
+  },
+  {
+  "question": "What is your return policy?",
+  "answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions."
+  },
+  {
+  "question": "Can I cancel my order?",
+  "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process."
+  },
+  {
+  "question": "How long does shipping take?",
+  "answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days."
+  },
+  {
+  "question": "Do you offer international shipping?",
+  "answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location."
+  },
+  {
+  "question": "What should I do if my package is lost or damaged?",
+  "answer": "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue."
+  }
+  ]
+  }
+  
+  
+
+  
+  
+  

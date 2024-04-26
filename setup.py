@@ -1,10 +1,11 @@
 from data_manager import DataManager, DocumentProcessor, IndexManager
 from config import Configuration
+
 def setup():
     config = Configuration()
-    mongo_uri = 'mongodb+srv://sanchayt:xerxes101@cluster0.rab7pym.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
-    db_name = 'trial'
-    collection_name = 'qq'
+    mongo_uri = 'your_mongo_uri_here'  # Replace with your actual MongoDB URI
+    db_name = 'CustomerService'
+    collection_name = 'data'
     json_path = 'Ecommerce_FAQ_Chatbot_dataset.json'
 
     data_manager = DataManager(mongo_uri, db_name, collection_name, json_path=json_path)
